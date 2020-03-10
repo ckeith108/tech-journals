@@ -1,0 +1,33 @@
+//week#
+//lab#
+//notes
+
+//week 2
+//lab 2-1
+  //when rebooting system press f8 to enter boot menu
+  // Kali credentials: User: root Password: toor 
+  //use wired connection settings to change ip while building lan
+//lab2-2
+  ipconfig /all //windows
+  ip route show //linux
+//week 3
+//lab 3-1
+  netsh interface ip delete arpcache // clears saved arp results
+  //windows key-x then press a: open command prompt as admin
+//lab3-2
+  macchanger -m xx:xx:xx:xx:xx:xx eth0 //changes mac address to x
+//week 4
+//lab 4-3
+  packet tracer
+  //use lightning bolt to auto connect
+  //simulation screen allows you to follow packets hop by hop
+//week 5
+//lab 5-1
+  //bulding network
+  //connect all pcs to the router
+  //set IP's to the pc's
+  //go to web browers and go to the router ip
+  // setup the pc's new IP's for the router
+//week 7
+  //note to self: remember to set gateway before attempting ping
+
