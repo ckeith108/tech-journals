@@ -41,4 +41,13 @@
   //vlan: config on switch, give number and name hit add
   //set ports to correct VLAN
   //set gigabit port for trunk to other switch
+  //set to router
+      //If not already in "config-interface" mode for Interface FastEthernet0/4 enter it by typing
+	config terminal
+	interface FastEthernet0/4
+o	Then type the following
+	switchport trunk native vlan 10    (this makes it so any device can read the fram from a VLAN)
+	switchport nonegotiate
+	exit
+
 
