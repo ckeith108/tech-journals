@@ -30,4 +30,15 @@
   // setup the pc's new IP's for the router
 //week 7
   //note to self: remember to set gateway before attempting ping
+//week 9
+  // "config" mode: Go to CLI, type "enable" and then "config terminal" prompt should change to R1(config)#
+  //ip route ip, subnet mask, next hop
+//week 10
+  //Rip v2
+    //config mode -rip router - version2
+    //ip of connected routers
+//week 11
+  //vlan: config on switch, give number and name hit add
+  //set ports to correct VLAN
+  //set gigabit port for trunk to other switch
 
