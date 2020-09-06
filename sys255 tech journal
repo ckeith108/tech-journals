@@ -1,0 +1,2 @@
+lab 1
+  tracert /h (maximum hops) (address) // limiting the number of hops
